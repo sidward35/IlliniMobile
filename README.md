@@ -1,2 +1,2 @@
 # IlliniMobile
-Download the app [here](https://github.com/sidward35/IlliniMobile/releases/download/v1.0/Illini.Mobile.v1.0.apk)!
+Download the app [here](https://github.com/sidward35/IlliniMobile/releases/download/v1.2/Illini.Mobile.v1.2.apk)!
